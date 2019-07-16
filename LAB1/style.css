@@ -1,0 +1,23 @@
+#principal{ 
+
+    width: 900px;
+    height: 100px;
+    margin: auto;
+}
+
+header{ 
+    width: 1020px;
+    height: 100px;
+}
+
+#tabla1 {
+    position:absolute;
+    left:50px; 
+    top:250px}
+
+body{
+    background: azure;
+}
+div{
+    width: 96%;
+}
